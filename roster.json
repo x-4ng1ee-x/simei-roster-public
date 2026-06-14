@@ -1,8 +1,14 @@
 {
   "schemaVersion": 1,
   "businessDate": "2026-06-14",
-  "shiftVersion": 1,
+  "shiftVersion": 2,
   "createdAt": "2026-06-14T00:00:00+09:00",
-  "updatedAt": "2026-06-14T14:41:50+09:00",
-  "casts": []
+  "updatedAt": "2026-06-14T17:21:14+09:00",
+  "casts": [
+    {
+      "name": "あ ん じ ー 。",
+      "gender": "male",
+      "order": 1
+    }
+  ]
 }
