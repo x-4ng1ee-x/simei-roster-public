@@ -1,18 +1,7 @@
 {
   "schemaVersion": 1,
-  "businessDate": "2026-06-17",
-  "shiftVersion": 5,
-  "updatedAt": "2026-06-15T10:04:03+09:00",
-  "casts": [
-    {
-      "name": "Local Player",
-      "gender": "female",
-      "order": 1
-    },
-    {
-      "name": "あ ん じ ー 。",
-      "gender": "male",
-      "order": 1
-    }
-  ]
+  "businessDate": "2026-06-15",
+  "shiftVersion": 6,
+  "updatedAt": "2026-06-15T10:46:34+09:00",
+  "casts": []
 }
