@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "businessDate": "2026-06-19",
-  "shiftVersion": 11,
-  "updatedAt": "2026-06-19T22:17:51+09:00",
+  "shiftVersion": 12,
+  "updatedAt": "2026-06-19T22:27:21+09:00",
   "casts": [
     {
       "name": "いぬ。。",
@@ -15,14 +15,9 @@
       "order": 2
     },
     {
-      "name": "[1] Local Player",
-      "gender": "female",
-      "order": 3
-    },
-    {
       "name": "黒糖アメ",
       "gender": "female",
-      "order": 4
+      "order": 3
     },
     {
       "name": "・SHIKI・",
@@ -38,6 +33,11 @@
       "name": "Le Ciel Blanc",
       "gender": "male",
       "order": 3
+    },
+    {
+      "name": "[1] Local Player",
+      "gender": "male",
+      "order": 4
     }
   ]
 }
