@@ -1,23 +1,78 @@
 {
   "schemaVersion": 1,
-  "businessDate": "2026-06-19",
-  "shiftVersion": 15,
-  "updatedAt": "2026-06-19T22:43:52+09:00",
+  "businessDate": "2026-06-21",
+  "shiftVersion": 16,
+  "updatedAt": "2026-06-21T18:23:31+09:00",
   "casts": [
+    {
+      "name": "たそーん",
+      "gender": "female",
+      "order": 1
+    },
+    {
+      "name": "ほし_hoshi",
+      "gender": "female",
+      "order": 2
+    },
+    {
+      "name": "muchimuchimm",
+      "gender": "female",
+      "order": 3
+    },
+    {
+      "name": "春茶_Harucha",
+      "gender": "female",
+      "order": 4
+    },
+    {
+      "name": "翠琴_みこと",
+      "gender": "female",
+      "order": 5
+    },
     {
       "name": "黒糖アメ",
       "gender": "female",
+      "order": 6
+    },
+    {
+      "name": "・SHIKI・",
+      "gender": "male",
       "order": 1
     },
     {
       "name": "あ ん じ ー 。",
       "gender": "male",
-      "order": 1
+      "order": 2
+    },
+    {
+      "name": "ふしまち",
+      "gender": "male",
+      "order": 3
+    },
+    {
+      "name": "*とあ*",
+      "gender": "male",
+      "order": 4
+    },
+    {
+      "name": "Knantoka_san",
+      "gender": "male",
+      "order": 5
     },
     {
       "name": "Le Ciel Blanc",
       "gender": "male",
-      "order": 2
+      "order": 6
+    },
+    {
+      "name": "neko1543",
+      "gender": "male",
+      "order": 7
+    },
+    {
+      "name": "shikimi_zousui",
+      "gender": "male",
+      "order": 8
     }
   ]
 }
