@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "businessDate": "2026-06-23",
-  "shiftVersion": 17,
-  "updatedAt": "2026-06-22T11:06:05+09:00",
+  "shiftVersion": 18,
+  "updatedAt": "2026-06-22T11:16:14+09:00",
   "parts": [
     {
       "id": 1,
@@ -19,7 +19,8 @@
       "gender": "female",
       "order": 1,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -27,7 +28,8 @@
       "gender": "female",
       "order": 2,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -35,7 +37,8 @@
       "gender": "female",
       "order": 3,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -43,7 +46,8 @@
       "gender": "female",
       "order": 4,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -51,7 +55,8 @@
       "gender": "female",
       "order": 5,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -59,7 +64,8 @@
       "gender": "female",
       "order": 6,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -67,7 +73,8 @@
       "gender": "female",
       "order": 7,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -75,7 +82,8 @@
       "gender": "female",
       "order": 8,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -83,7 +91,8 @@
       "gender": "female",
       "order": 9,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -91,7 +100,8 @@
       "gender": "female",
       "order": 10,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -99,7 +109,8 @@
       "gender": "female",
       "order": 11,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -107,7 +118,8 @@
       "gender": "male",
       "order": 1,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -115,7 +127,8 @@
       "gender": "male",
       "order": 2,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -123,7 +136,8 @@
       "gender": "male",
       "order": 3,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -131,7 +145,8 @@
       "gender": "male",
       "order": 4,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -139,7 +154,8 @@
       "gender": "male",
       "order": 5,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -147,7 +163,8 @@
       "gender": "male",
       "order": 6,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -155,7 +172,8 @@
       "gender": "male",
       "order": 7,
       "parts": [
-        1
+        1,
+        2
       ]
     }
   ]
