@@ -1,78 +1,162 @@
 {
-  "schemaVersion": 1,
-  "businessDate": "2026-06-21",
-  "shiftVersion": 16,
-  "updatedAt": "2026-06-21T18:23:31+09:00",
+  "schemaVersion": 2,
+  "businessDate": "2026-06-23",
+  "shiftVersion": 17,
+  "updatedAt": "2026-06-22T11:06:05+09:00",
+  "parts": [
+    {
+      "id": 1,
+      "label": "1部"
+    },
+    {
+      "id": 2,
+      "label": "2部"
+    }
+  ],
   "casts": [
+    {
+      "name": "いぬ。。",
+      "gender": "female",
+      "order": 1,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "カサネチャン",
+      "gender": "female",
+      "order": 2,
+      "parts": [
+        1
+      ]
+    },
     {
       "name": "たそーん",
       "gender": "female",
-      "order": 1
+      "order": 3,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "ねみ_Nemi",
+      "gender": "female",
+      "order": 4,
+      "parts": [
+        1
+      ]
     },
     {
       "name": "ほし_hoshi",
       "gender": "female",
-      "order": 2
+      "order": 5,
+      "parts": [
+        1
+      ]
     },
     {
-      "name": "muchimuchimm",
+      "name": "6U_U3",
       "gender": "female",
-      "order": 3
+      "order": 6,
+      "parts": [
+        1
+      ]
     },
     {
-      "name": "春茶_Harucha",
+      "name": "P_ぴよの",
       "gender": "female",
-      "order": 4
+      "order": 7,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "_mase",
+      "gender": "female",
+      "order": 8,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "江戸モン",
+      "gender": "female",
+      "order": 9,
+      "parts": [
+        1
+      ]
     },
     {
       "name": "翠琴_みこと",
       "gender": "female",
-      "order": 5
+      "order": 10,
+      "parts": [
+        1
+      ]
     },
     {
       "name": "黒糖アメ",
       "gender": "female",
-      "order": 6
-    },
-    {
-      "name": "・SHIKI・",
-      "gender": "male",
-      "order": 1
+      "order": 11,
+      "parts": [
+        1
+      ]
     },
     {
       "name": "あ ん じ ー 。",
       "gender": "male",
-      "order": 2
+      "order": 1,
+      "parts": [
+        1
+      ]
     },
     {
       "name": "ふしまち",
       "gender": "male",
-      "order": 3
-    },
-    {
-      "name": "*とあ*",
-      "gender": "male",
-      "order": 4
+      "order": 2,
+      "parts": [
+        1
+      ]
     },
     {
       "name": "Knantoka_san",
       "gender": "male",
-      "order": 5
+      "order": 3,
+      "parts": [
+        1
+      ]
     },
     {
       "name": "Le Ciel Blanc",
       "gender": "male",
-      "order": 6
+      "order": 4,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "Luka_desu",
+      "gender": "male",
+      "order": 5,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "apa00",
+      "gender": "male",
+      "order": 6,
+      "parts": [
+        1
+      ]
     },
     {
       "name": "neko1543",
       "gender": "male",
-      "order": 7
-    },
-    {
-      "name": "shikimi_zousui",
-      "gender": "male",
-      "order": 8
+      "order": 7,
+      "parts": [
+        1
+      ]
     }
   ]
 }
