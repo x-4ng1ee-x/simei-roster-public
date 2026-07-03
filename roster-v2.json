@@ -1,8 +1,9 @@
 {
   "schemaVersion": 2,
-  "businessDate": "2026-07-01",
-  "shiftVersion": 23,
-  "updatedAt": "2026-07-01T18:37:55+09:00",
+  "businessDate": "2026-07-05",
+  "shiftVersion": 24,
+  "updatedAt": "2026-07-04T05:26:21+09:00",
+  "operationMode": "normal",
   "parts": [
     {
       "id": 1,
@@ -19,14 +20,16 @@
       "gender": "female",
       "order": 1,
       "parts": [
+        1,
         2
       ]
     },
     {
-      "name": "カサネチャン",
+      "name": "カサネﾁｬﾝ",
       "gender": "female",
       "order": 2,
       "parts": [
+        1,
         2
       ]
     },
@@ -35,6 +38,7 @@
       "gender": "female",
       "order": 3,
       "parts": [
+        1,
         2
       ]
     },
@@ -43,6 +47,7 @@
       "gender": "female",
       "order": 4,
       "parts": [
+        1,
         2
       ]
     },
@@ -51,6 +56,7 @@
       "gender": "female",
       "order": 5,
       "parts": [
+        1,
         2
       ]
     },
@@ -59,6 +65,7 @@
       "gender": "female",
       "order": 6,
       "parts": [
+        1,
         2
       ]
     },
@@ -67,6 +74,7 @@
       "gender": "female",
       "order": 7,
       "parts": [
+        1,
         2
       ]
     },
@@ -75,6 +83,7 @@
       "gender": "female",
       "order": 8,
       "parts": [
+        1,
         2
       ]
     },
@@ -83,6 +92,7 @@
       "gender": "female",
       "order": 9,
       "parts": [
+        1,
         2
       ]
     },
@@ -91,6 +101,7 @@
       "gender": "female",
       "order": 10,
       "parts": [
+        1,
         2
       ]
     },
@@ -99,6 +110,7 @@
       "gender": "female",
       "order": 11,
       "parts": [
+        1,
         2
       ]
     },
@@ -107,7 +119,105 @@
       "gender": "female",
       "order": 12,
       "parts": [
+        1,
         2
+      ]
+    },
+    {
+      "name": "・SHIKI・",
+      "gender": "male",
+      "order": 1,
+      "parts": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "あ ん じ ー 。",
+      "gender": "male",
+      "order": 2,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "ふしまち",
+      "gender": "male",
+      "order": 3,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "*とあ*",
+      "gender": "male",
+      "order": 4,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "Knantoka_san",
+      "gender": "male",
+      "order": 5,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "Le Ciel Blanc",
+      "gender": "male",
+      "order": 6,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "Luka_desu",
+      "gender": "male",
+      "order": 7,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "apa00",
+      "gender": "male",
+      "order": 8,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "neko1543",
+      "gender": "male",
+      "order": 9,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "shikimi_zousui",
+      "gender": "male",
+      "order": 10,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "爽_Sou",
+      "gender": "male",
+      "order": 11,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "紫宮かなえ",
+      "gender": "male",
+      "order": 12,
+      "parts": [
+        1
       ]
     }
   ]
