@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "businessDate": "2026-07-05",
-  "shiftVersion": 24,
-  "updatedAt": "2026-07-04T05:26:21+09:00",
-  "operationMode": "normal",
+  "shiftVersion": 25,
+  "updatedAt": "2026-07-04T06:31:49+09:00",
+  "operationMode": "femaleOnly",
   "parts": [
     {
       "id": 1,
@@ -25,9 +25,25 @@
       ]
     },
     {
-      "name": "カサネﾁｬﾝ",
+      "name": "うく ゙いす",
       "gender": "female",
       "order": 2,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "おいきむ",
+      "gender": "female",
+      "order": 3,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "カサネﾁｬﾝ",
+      "gender": "female",
+      "order": 4,
       "parts": [
         1,
         2
@@ -36,16 +52,24 @@
     {
       "name": "かまあげのしらす",
       "gender": "female",
-      "order": 3,
+      "order": 5,
       "parts": [
         1,
         2
       ]
     },
     {
+      "name": "き ょ む 。",
+      "gender": "female",
+      "order": 6,
+      "parts": [
+        1
+      ]
+    },
+    {
       "name": "くしもな",
       "gender": "female",
-      "order": 4,
+      "order": 7,
       "parts": [
         1,
         2
@@ -54,25 +78,65 @@
     {
       "name": "たそーん",
       "gender": "female",
-      "order": 5,
+      "order": 8,
       "parts": [
         1,
         2
+      ]
+    },
+    {
+      "name": "ねみ_Nemi",
+      "gender": "female",
+      "order": 9,
+      "parts": [
+        1
       ]
     },
     {
       "name": "ねむzZ",
       "gender": "female",
-      "order": 6,
+      "order": 10,
       "parts": [
         1,
         2
       ]
     },
     {
+      "name": "のらぇさん",
+      "gender": "female",
+      "order": 11,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "ほし_hoshi",
+      "gender": "female",
+      "order": 12,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "ゆてちう",
+      "gender": "female",
+      "order": 13,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "6U_U3",
+      "gender": "female",
+      "order": 14,
+      "parts": [
+        1
+      ]
+    },
+    {
       "name": "P_ぴよの",
       "gender": "female",
-      "order": 7,
+      "order": 15,
       "parts": [
         1,
         2
@@ -81,143 +145,41 @@
     {
       "name": "muchimuchimm",
       "gender": "female",
-      "order": 8,
+      "order": 16,
       "parts": [
-        1,
         2
       ]
     },
     {
       "name": "~ちゃの~",
       "gender": "female",
-      "order": 9,
+      "order": 17,
       "parts": [
-        1,
         2
       ]
     },
     {
       "name": "春茶_Harucha",
       "gender": "female",
-      "order": 10,
+      "order": 18,
       "parts": [
-        1,
         2
       ]
     },
     {
       "name": "江戸モン",
       "gender": "female",
-      "order": 11,
+      "order": 19,
       "parts": [
-        1,
         2
       ]
     },
     {
       "name": "翠琴_みこと",
       "gender": "female",
-      "order": 12,
+      "order": 20,
       "parts": [
-        1,
         2
-      ]
-    },
-    {
-      "name": "・SHIKI・",
-      "gender": "male",
-      "order": 1,
-      "parts": [
-        1,
-        2
-      ]
-    },
-    {
-      "name": "あ ん じ ー 。",
-      "gender": "male",
-      "order": 2,
-      "parts": [
-        1
-      ]
-    },
-    {
-      "name": "ふしまち",
-      "gender": "male",
-      "order": 3,
-      "parts": [
-        1
-      ]
-    },
-    {
-      "name": "*とあ*",
-      "gender": "male",
-      "order": 4,
-      "parts": [
-        1
-      ]
-    },
-    {
-      "name": "Knantoka_san",
-      "gender": "male",
-      "order": 5,
-      "parts": [
-        1
-      ]
-    },
-    {
-      "name": "Le Ciel Blanc",
-      "gender": "male",
-      "order": 6,
-      "parts": [
-        1
-      ]
-    },
-    {
-      "name": "Luka_desu",
-      "gender": "male",
-      "order": 7,
-      "parts": [
-        1
-      ]
-    },
-    {
-      "name": "apa00",
-      "gender": "male",
-      "order": 8,
-      "parts": [
-        1
-      ]
-    },
-    {
-      "name": "neko1543",
-      "gender": "male",
-      "order": 9,
-      "parts": [
-        1
-      ]
-    },
-    {
-      "name": "shikimi_zousui",
-      "gender": "male",
-      "order": 10,
-      "parts": [
-        1
-      ]
-    },
-    {
-      "name": "爽_Sou",
-      "gender": "male",
-      "order": 11,
-      "parts": [
-        1
-      ]
-    },
-    {
-      "name": "紫宮かなえ",
-      "gender": "male",
-      "order": 12,
-      "parts": [
-        1
       ]
     }
   ]
