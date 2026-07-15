@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "businessDate": "2026-07-15",
-  "shiftVersion": 31,
-  "updatedAt": "2026-07-15T19:59:14+09:00",
+  "businessDate": "2026-07-16",
+  "shiftVersion": 32,
+  "updatedAt": "2026-07-16T04:56:09+09:00",
   "operationMode": "normal",
   "parts": [
     {
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "name": "*とあ*",
+      "name": "＊とあ＊",
       "gender": "male",
       "order": 3,
       "parts": [
