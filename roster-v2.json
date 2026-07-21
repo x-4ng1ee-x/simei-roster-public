@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "businessDate": "2026-07-16",
-  "shiftVersion": 32,
-  "updatedAt": "2026-07-16T04:56:09+09:00",
+  "businessDate": "2026-07-21",
+  "shiftVersion": 33,
+  "updatedAt": "2026-07-21T20:15:47+09:00",
   "operationMode": "normal",
   "parts": [
     {
@@ -16,36 +16,17 @@
   ],
   "casts": [
     {
-      "name": "あみ。。",
+      "name": "いぬ。。",
       "gender": "female",
       "order": 1,
       "parts": [
-        1,
-        2
-      ]
-    },
-    {
-      "name": "いぬ。。",
-      "gender": "female",
-      "order": 2,
-      "parts": [
-        1,
         2
       ]
     },
     {
       "name": "カサネﾁｬﾝ",
       "gender": "female",
-      "order": 3,
-      "parts": [
-        1,
-        2
-      ]
-    },
-    {
-      "name": "かまあげのしらす",
-      "gender": "female",
-      "order": 4,
+      "order": 2,
       "parts": [
         2
       ]
@@ -53,16 +34,7 @@
     {
       "name": "たそーん",
       "gender": "female",
-      "order": 5,
-      "parts": [
-        1,
-        2
-      ]
-    },
-    {
-      "name": "ねむzZ",
-      "gender": "female",
-      "order": 6,
+      "order": 3,
       "parts": [
         2
       ]
@@ -70,60 +42,24 @@
     {
       "name": "のらぇさん",
       "gender": "female",
-      "order": 7,
+      "order": 4,
       "parts": [
         2
       ]
     },
     {
-      "name": "6U_U3",
+      "name": "ほし_hoshi",
       "gender": "female",
-      "order": 8,
-      "parts": [
-        1
-      ]
-    },
-    {
-      "name": "P_ぴよの",
-      "gender": "female",
-      "order": 9,
-      "parts": [
-        1,
-        2
-      ]
-    },
-    {
-      "name": "_mase",
-      "gender": "female",
-      "order": 10,
-      "parts": [
-        1,
-        2
-      ]
-    },
-    {
-      "name": "春茶_Harucha",
-      "gender": "female",
-      "order": 11,
-      "parts": [
-        1,
-        2
-      ]
-    },
-    {
-      "name": "江戸モン",
-      "gender": "female",
-      "order": 12,
+      "order": 5,
       "parts": [
         2
       ]
     },
     {
-      "name": "瑠璃色のぬいぐるみ",
+      "name": "翠琴_みこと",
       "gender": "female",
-      "order": 13,
+      "order": 6,
       "parts": [
-        1,
         2
       ]
     },
@@ -132,7 +68,6 @@
       "gender": "male",
       "order": 1,
       "parts": [
-        1,
         2
       ]
     },
@@ -141,7 +76,6 @@
       "gender": "male",
       "order": 2,
       "parts": [
-        1,
         2
       ]
     },
@@ -150,7 +84,6 @@
       "gender": "male",
       "order": 3,
       "parts": [
-        1,
         2
       ]
     },
@@ -159,23 +92,13 @@
       "gender": "male",
       "order": 4,
       "parts": [
-        1,
-        2
-      ]
-    },
-    {
-      "name": "Luka_desu",
-      "gender": "male",
-      "order": 5,
-      "parts": [
-        1,
         2
       ]
     },
     {
       "name": "apa00",
       "gender": "male",
-      "order": 6,
+      "order": 5,
       "parts": [
         2
       ]
@@ -183,27 +106,17 @@
     {
       "name": "neko1543",
       "gender": "male",
-      "order": 7,
+      "order": 6,
       "parts": [
-        1,
         2
       ]
     },
     {
       "name": "shikimi_zousui",
       "gender": "male",
-      "order": 8,
+      "order": 7,
       "parts": [
-        1,
         2
-      ]
-    },
-    {
-      "name": "紫宮かなえ",
-      "gender": "male",
-      "order": 9,
-      "parts": [
-        1
       ]
     }
   ]
