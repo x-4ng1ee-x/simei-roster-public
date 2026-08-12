@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "businessDate": "2026-08-05",
-  "shiftVersion": 35,
-  "updatedAt": "2026-08-05T19:49:28+09:00",
+  "businessDate": "2026-08-12",
+  "shiftVersion": 36,
+  "updatedAt": "2026-08-12T19:12:02+09:00",
   "operationMode": "normal",
   "parts": [
     {
@@ -16,7 +16,7 @@
   ],
   "casts": [
     {
-      "name": "いぬ。。",
+      "name": "カサネﾁｬﾝ",
       "gender": "female",
       "order": 1,
       "parts": [
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "name": "カサネﾁｬﾝ",
+      "name": "たそーん",
       "gender": "female",
       "order": 2,
       "parts": [
@@ -34,24 +34,24 @@
       ]
     },
     {
-      "name": "ゆてちう",
+      "name": "ねむzZ",
       "gender": "female",
       "order": 3,
+      "parts": [
+        2
+      ]
+    },
+    {
+      "name": "ほし_hoshi",
+      "gender": "female",
+      "order": 4,
       "parts": [
         1,
         2
       ]
     },
     {
-      "name": "6U_U3",
-      "gender": "female",
-      "order": 4,
-      "parts": [
-        1
-      ]
-    },
-    {
-      "name": "P_ぴよの",
+      "name": "ゆてちう",
       "gender": "female",
       "order": 5,
       "parts": [
@@ -60,18 +60,35 @@
       ]
     },
     {
-      "name": "muchimuchimm",
+      "name": "6U_U3",
       "gender": "female",
       "order": 6,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "muchimuchimm",
+      "gender": "female",
+      "order": 7,
       "parts": [
         1,
         2
       ]
     },
     {
-      "name": "翠琴_みこと",
+      "name": "春茶_Harucha",
       "gender": "female",
-      "order": 7,
+      "order": 8,
+      "parts": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "江戸モン",
+      "gender": "female",
+      "order": 9,
       "parts": [
         1,
         2
@@ -87,7 +104,7 @@
       ]
     },
     {
-      "name": "ふしまち",
+      "name": "＊とあ＊",
       "gender": "male",
       "order": 2,
       "parts": [
@@ -96,7 +113,7 @@
       ]
     },
     {
-      "name": "＊とあ＊",
+      "name": "Knantoka_san",
       "gender": "male",
       "order": 3,
       "parts": [
@@ -105,7 +122,7 @@
       ]
     },
     {
-      "name": "Knantoka_san",
+      "name": "Luka_desu",
       "gender": "male",
       "order": 4,
       "parts": [
@@ -114,7 +131,7 @@
       ]
     },
     {
-      "name": "neko1543",
+      "name": "apa00",
       "gender": "male",
       "order": 5,
       "parts": [
@@ -123,9 +140,18 @@
       ]
     },
     {
-      "name": "shikimi_zousui",
+      "name": "neko1543",
       "gender": "male",
       "order": 6,
+      "parts": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "shikimi_zousui",
+      "gender": "male",
+      "order": 7,
       "parts": [
         1,
         2
