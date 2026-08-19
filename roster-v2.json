@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "businessDate": "2026-08-19",
-  "shiftVersion": 37,
-  "updatedAt": "2026-08-19T18:03:32+09:00",
+  "shiftVersion": 38,
+  "updatedAt": "2026-08-19T19:56:43+09:00",
   "operationMode": "normal",
   "parts": [
     {
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "name": "ふしまち",
+      "name": "あ ん じ ー 。",
       "gender": "male",
       "order": 2,
       "parts": [
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "name": "＊とあ＊",
+      "name": "ふしまち",
       "gender": "male",
       "order": 3,
       "parts": [
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "name": "4ng1e_ev",
+      "name": "＊とあ＊",
       "gender": "male",
       "order": 4,
       "parts": [
