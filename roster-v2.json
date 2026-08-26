@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "businessDate": "2026-08-26",
-  "shiftVersion": 39,
-  "updatedAt": "2026-08-26T19:20:38+09:00",
+  "shiftVersion": 40,
+  "updatedAt": "2026-08-26T20:10:10+09:00",
   "operationMode": "normal",
   "parts": [
     {
@@ -102,17 +102,9 @@
       ]
     },
     {
-      "name": "・SHIKI・",
-      "gender": "male",
-      "order": 1,
-      "parts": [
-        1
-      ]
-    },
-    {
       "name": "ふしまち",
       "gender": "male",
-      "order": 2,
+      "order": 1,
       "parts": [
         1,
         2
@@ -121,7 +113,7 @@
     {
       "name": "＊とあ＊",
       "gender": "male",
-      "order": 3,
+      "order": 2,
       "parts": [
         1,
         2
@@ -130,7 +122,7 @@
     {
       "name": "4ng1e_ev",
       "gender": "male",
-      "order": 4,
+      "order": 3,
       "parts": [
         1,
         2
@@ -139,7 +131,7 @@
     {
       "name": "Knantoka_san",
       "gender": "male",
-      "order": 5,
+      "order": 4,
       "parts": [
         1,
         2
@@ -148,7 +140,7 @@
     {
       "name": "kaede8910",
       "gender": "male",
-      "order": 6,
+      "order": 5,
       "parts": [
         1,
         2
@@ -157,7 +149,7 @@
     {
       "name": "shikimi_zousui",
       "gender": "male",
-      "order": 7,
+      "order": 6,
       "parts": [
         1,
         2
