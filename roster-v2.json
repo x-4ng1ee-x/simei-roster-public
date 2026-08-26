@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "businessDate": "2026-08-19",
-  "shiftVersion": 38,
-  "updatedAt": "2026-08-19T19:56:43+09:00",
+  "businessDate": "2026-08-26",
+  "shiftVersion": 39,
+  "updatedAt": "2026-08-26T19:20:38+09:00",
   "operationMode": "normal",
   "parts": [
     {
@@ -20,22 +20,13 @@
       "gender": "female",
       "order": 1,
       "parts": [
-        1,
         2
-      ]
-    },
-    {
-      "name": "おいきむ",
-      "gender": "female",
-      "order": 2,
-      "parts": [
-        1
       ]
     },
     {
       "name": "カサネﾁｬﾝ",
       "gender": "female",
-      "order": 3,
+      "order": 2,
       "parts": [
         1,
         2
@@ -44,15 +35,15 @@
     {
       "name": "ねむzZ",
       "gender": "female",
-      "order": 4,
+      "order": 3,
       "parts": [
         2
       ]
     },
     {
-      "name": "のらぇさん",
+      "name": "ぴよの_ev",
       "gender": "female",
-      "order": 5,
+      "order": 4,
       "parts": [
         1,
         2
@@ -61,13 +52,22 @@
     {
       "name": "ゆてちう",
       "gender": "female",
+      "order": 5,
+      "parts": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "6U_U3",
+      "gender": "female",
       "order": 6,
       "parts": [
         2
       ]
     },
     {
-      "name": "P_ぴよの",
+      "name": "mina0027",
       "gender": "female",
       "order": 7,
       "parts": [
@@ -102,25 +102,15 @@
       ]
     },
     {
-      "name": "翠琴_みこと",
-      "gender": "female",
-      "order": 11,
-      "parts": [
-        1,
-        2
-      ]
-    },
-    {
       "name": "・SHIKI・",
       "gender": "male",
       "order": 1,
       "parts": [
-        1,
-        2
+        1
       ]
     },
     {
-      "name": "あ ん じ ー 。",
+      "name": "ふしまち",
       "gender": "male",
       "order": 2,
       "parts": [
@@ -129,7 +119,7 @@
       ]
     },
     {
-      "name": "ふしまち",
+      "name": "＊とあ＊",
       "gender": "male",
       "order": 3,
       "parts": [
@@ -138,7 +128,7 @@
       ]
     },
     {
-      "name": "＊とあ＊",
+      "name": "4ng1e_ev",
       "gender": "male",
       "order": 4,
       "parts": [
@@ -156,9 +146,18 @@
       ]
     },
     {
-      "name": "apa00",
+      "name": "kaede8910",
       "gender": "male",
       "order": 6,
+      "parts": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "shikimi_zousui",
+      "gender": "male",
+      "order": 7,
       "parts": [
         1,
         2
