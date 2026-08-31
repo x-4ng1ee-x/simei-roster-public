@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "businessDate": "2026-08-26",
-  "shiftVersion": 40,
-  "updatedAt": "2026-08-26T20:10:10+09:00",
+  "businessDate": "2026-08-31",
+  "shiftVersion": 41,
+  "updatedAt": "2026-08-31T18:36:41+09:00",
   "operationMode": "normal",
   "parts": [
     {
@@ -16,10 +16,11 @@
   ],
   "casts": [
     {
-      "name": "いぬ。。",
+      "name": "あみ。。",
       "gender": "female",
       "order": 1,
       "parts": [
+        1,
         2
       ]
     },
@@ -33,10 +34,11 @@
       ]
     },
     {
-      "name": "ねむzZ",
+      "name": "たそーん",
       "gender": "female",
       "order": 3,
       "parts": [
+        1,
         2
       ]
     },
@@ -59,29 +61,28 @@
       ]
     },
     {
-      "name": "6U_U3",
+      "name": "ろくじゅーいち",
       "gender": "female",
       "order": 6,
       "parts": [
+        1,
         2
       ]
     },
     {
-      "name": "mina0027",
+      "name": "_mase",
       "gender": "female",
       "order": 7,
       "parts": [
-        1,
-        2
+        1
       ]
     },
     {
-      "name": "muchimuchimm",
+      "name": "【シキ】",
       "gender": "female",
       "order": 8,
       "parts": [
-        1,
-        2
+        1
       ]
     },
     {
@@ -102,54 +103,9 @@
       ]
     },
     {
-      "name": "ふしまち",
-      "gender": "male",
-      "order": 1,
-      "parts": [
-        1,
-        2
-      ]
-    },
-    {
-      "name": "＊とあ＊",
-      "gender": "male",
-      "order": 2,
-      "parts": [
-        1,
-        2
-      ]
-    },
-    {
-      "name": "4ng1e_ev",
-      "gender": "male",
-      "order": 3,
-      "parts": [
-        1,
-        2
-      ]
-    },
-    {
-      "name": "Knantoka_san",
-      "gender": "male",
-      "order": 4,
-      "parts": [
-        1,
-        2
-      ]
-    },
-    {
-      "name": "kaede8910",
-      "gender": "male",
-      "order": 5,
-      "parts": [
-        1,
-        2
-      ]
-    },
-    {
-      "name": "shikimi_zousui",
-      "gender": "male",
-      "order": 6,
+      "name": "翠琴_みこと",
+      "gender": "female",
+      "order": 11,
       "parts": [
         1,
         2
