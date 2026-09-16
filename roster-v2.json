@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "businessDate": "2026-09-16",
-  "shiftVersion": 45,
-  "updatedAt": "2026-09-16T18:03:46+09:00",
+  "shiftVersion": 46,
+  "updatedAt": "2026-09-16T18:24:14+09:00",
   "operationMode": "normal",
   "parts": [
     {
@@ -148,7 +148,6 @@
       "gender": "male",
       "order": 3,
       "parts": [
-        1,
         2
       ]
     },
