@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "businessDate": "2026-09-16",
-  "shiftVersion": 46,
-  "updatedAt": "2026-09-16T18:24:14+09:00",
+  "shiftVersion": 47,
+  "updatedAt": "2026-09-16T19:09:00+09:00",
   "operationMode": "normal",
   "parts": [
     {
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "ねむzZ",
+      "name": "たそーん",
       "gender": "female",
       "order": 3,
       "parts": [
@@ -42,9 +42,17 @@
       ]
     },
     {
-      "name": "ゆてちう",
+      "name": "ねむzZ",
       "gender": "female",
       "order": 4,
+      "parts": [
+        2
+      ]
+    },
+    {
+      "name": "ゆてちう",
+      "gender": "female",
+      "order": 5,
       "parts": [
         1
       ]
@@ -52,7 +60,7 @@
     {
       "name": "ろくじゅーいち",
       "gender": "female",
-      "order": 5,
+      "order": 6,
       "parts": [
         1,
         2
@@ -61,7 +69,7 @@
     {
       "name": "6U_U3",
       "gender": "female",
-      "order": 6,
+      "order": 7,
       "parts": [
         1
       ]
@@ -69,22 +77,13 @@
     {
       "name": "_mase",
       "gender": "female",
-      "order": 7,
+      "order": 8,
       "parts": [
         1
       ]
     },
     {
       "name": "muchimuchimm",
-      "gender": "female",
-      "order": 8,
-      "parts": [
-        1,
-        2
-      ]
-    },
-    {
-      "name": "【シキ】",
       "gender": "female",
       "order": 9,
       "parts": [
@@ -93,9 +92,18 @@
       ]
     },
     {
-      "name": "春茶_Harucha",
+      "name": "【シキ】",
       "gender": "female",
       "order": 10,
+      "parts": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "春茶_Harucha",
+      "gender": "female",
+      "order": 11,
       "parts": [
         1
       ]
@@ -103,7 +111,7 @@
     {
       "name": "翠琴_みこと",
       "gender": "female",
-      "order": 11,
+      "order": 12,
       "parts": [
         2
       ]
@@ -111,7 +119,7 @@
     {
       "name": "藍兎_aito",
       "gender": "female",
-      "order": 12,
+      "order": 13,
       "parts": [
         1
       ]
@@ -119,7 +127,7 @@
     {
       "name": "魚。うおまる",
       "gender": "female",
-      "order": 13,
+      "order": 14,
       "parts": [
         1,
         2
