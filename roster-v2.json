@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "businessDate": "2026-09-23",
-  "shiftVersion": 48,
-  "updatedAt": "2026-09-23T20:19:19+09:00",
+  "shiftVersion": 49,
+  "updatedAt": "2026-09-23T20:37:20+09:00",
   "operationMode": "normal",
   "parts": [
     {
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "name": "春茶_Harucha",
+      "name": "江戸モン",
       "gender": "female",
       "order": 9,
       "parts": [
@@ -96,17 +96,9 @@
       ]
     },
     {
-      "name": "江戸モン",
-      "gender": "female",
-      "order": 10,
-      "parts": [
-        2
-      ]
-    },
-    {
       "name": "翠琴_みこと",
       "gender": "female",
-      "order": 11,
+      "order": 10,
       "parts": [
         1,
         2
