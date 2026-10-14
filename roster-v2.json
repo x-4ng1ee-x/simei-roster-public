@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "businessDate": "2026-10-07",
-  "shiftVersion": 52,
-  "updatedAt": "2026-10-07T18:41:01+09:00",
+  "businessDate": "2026-10-14",
+  "shiftVersion": 53,
+  "updatedAt": "2026-10-14T16:04:36+09:00",
   "operationMode": "normal",
   "parts": [
     {
@@ -16,16 +16,15 @@
   ],
   "casts": [
     {
-      "name": "いぬ。。",
+      "name": "あみ。。",
       "gender": "female",
       "order": 1,
       "parts": [
-        1,
-        2
+        1
       ]
     },
     {
-      "name": "うみ0x0",
+      "name": "カサネﾁｬﾝ",
       "gender": "female",
       "order": 2,
       "parts": [
@@ -34,16 +33,15 @@
       ]
     },
     {
-      "name": "カサネﾁｬﾝ",
+      "name": "たそーん",
       "gender": "female",
       "order": 3,
       "parts": [
-        1,
-        2
+        1
       ]
     },
     {
-      "name": "ゆてちう",
+      "name": "ほし_hoshi",
       "gender": "female",
       "order": 4,
       "parts": [
@@ -61,7 +59,7 @@
       ]
     },
     {
-      "name": "_mase",
+      "name": "mina0027",
       "gender": "female",
       "order": 6,
       "parts": [
@@ -69,7 +67,7 @@
       ]
     },
     {
-      "name": "meeeetaro",
+      "name": "【シキ】",
       "gender": "female",
       "order": 7,
       "parts": [
@@ -78,36 +76,9 @@
       ]
     },
     {
-      "name": "mina0027",
-      "gender": "female",
-      "order": 8,
-      "parts": [
-        1,
-        2
-      ]
-    },
-    {
-      "name": "muchimuchimm",
-      "gender": "female",
-      "order": 9,
-      "parts": [
-        1,
-        2
-      ]
-    },
-    {
-      "name": "【シキ】",
-      "gender": "female",
-      "order": 10,
-      "parts": [
-        1,
-        2
-      ]
-    },
-    {
       "name": "江戸モン",
       "gender": "female",
-      "order": 11,
+      "order": 8,
       "parts": [
         2
       ]
@@ -115,9 +86,16 @@
     {
       "name": "翠琴_みこと",
       "gender": "female",
-      "order": 12,
+      "order": 9,
       "parts": [
-        1,
+        2
+      ]
+    },
+    {
+      "name": "魚。うおまる",
+      "gender": "female",
+      "order": 10,
+      "parts": [
         2
       ]
     },
@@ -126,16 +104,16 @@
       "gender": "male",
       "order": 1,
       "parts": [
-        1,
-        2
+        1
       ]
     },
     {
-      "name": "4ng1e_ev",
+      "name": "ふしまち",
       "gender": "male",
       "order": 2,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -148,29 +126,19 @@
       ]
     },
     {
-      "name": "Luka_desu",
+      "name": "apa00",
       "gender": "male",
       "order": 4,
       "parts": [
-        1,
         2
       ]
     },
     {
-      "name": "apa00",
+      "name": "neko1543",
       "gender": "male",
       "order": 5,
       "parts": [
-        2
-      ]
-    },
-    {
-      "name": "kaede8910",
-      "gender": "male",
-      "order": 6,
-      "parts": [
-        1,
-        2
+        1
       ]
     }
   ]
