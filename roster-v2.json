@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "businessDate": "2026-10-14",
-  "shiftVersion": 53,
-  "updatedAt": "2026-10-14T16:04:36+09:00",
+  "businessDate": "2026-10-21",
+  "shiftVersion": 54,
+  "updatedAt": "2026-10-21T18:03:39+09:00",
   "operationMode": "normal",
   "parts": [
     {
@@ -16,11 +16,12 @@
   ],
   "casts": [
     {
-      "name": "あみ。。",
+      "name": "うみ0x0",
       "gender": "female",
       "order": 1,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -41,9 +42,17 @@
       ]
     },
     {
-      "name": "ほし_hoshi",
+      "name": "ねむzZ",
       "gender": "female",
       "order": 4,
+      "parts": [
+        2
+      ]
+    },
+    {
+      "name": "ゆてちう",
+      "gender": "female",
+      "order": 5,
       "parts": [
         1,
         2
@@ -52,51 +61,59 @@
     {
       "name": "ろくじゅーいち",
       "gender": "female",
-      "order": 5,
-      "parts": [
-        1,
-        2
-      ]
-    },
-    {
-      "name": "mina0027",
-      "gender": "female",
       "order": 6,
       "parts": [
         1
       ]
     },
     {
-      "name": "【シキ】",
+      "name": "_mase",
       "gender": "female",
       "order": 7,
+      "parts": [
+        1
+      ]
+    },
+    {
+      "name": "mina0027",
+      "gender": "female",
+      "order": 8,
       "parts": [
         1,
         2
       ]
     },
     {
-      "name": "江戸モン",
-      "gender": "female",
-      "order": 8,
-      "parts": [
-        2
-      ]
-    },
-    {
-      "name": "翠琴_みこと",
+      "name": "【シキ】",
       "gender": "female",
       "order": 9,
       "parts": [
+        1,
         2
       ]
     },
     {
-      "name": "魚。うおまる",
+      "name": "春茶_Harucha",
       "gender": "female",
       "order": 10,
       "parts": [
+        1
+      ]
+    },
+    {
+      "name": "江戸モン",
+      "gender": "female",
+      "order": 11,
+      "parts": [
         2
+      ]
+    },
+    {
+      "name": "藍兎_aito",
+      "gender": "female",
+      "order": 12,
+      "parts": [
+        1
       ]
     },
     {
@@ -104,7 +121,8 @@
       "gender": "male",
       "order": 1,
       "parts": [
-        1
+        1,
+        2
       ]
     },
     {
@@ -112,12 +130,11 @@
       "gender": "male",
       "order": 2,
       "parts": [
-        1,
         2
       ]
     },
     {
-      "name": "Knantoka_san",
+      "name": "＊とあ＊",
       "gender": "male",
       "order": 3,
       "parts": [
@@ -126,7 +143,7 @@
       ]
     },
     {
-      "name": "apa00",
+      "name": "4ng1e_ev",
       "gender": "male",
       "order": 4,
       "parts": [
@@ -134,11 +151,39 @@
       ]
     },
     {
-      "name": "neko1543",
+      "name": "Knantoka_san",
       "gender": "male",
       "order": 5,
       "parts": [
-        1
+        1,
+        2
+      ]
+    },
+    {
+      "name": "kaede8910",
+      "gender": "male",
+      "order": 6,
+      "parts": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "neko1543",
+      "gender": "male",
+      "order": 7,
+      "parts": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "shikimi_zousui",
+      "gender": "male",
+      "order": 8,
+      "parts": [
+        1,
+        2
       ]
     }
   ]
