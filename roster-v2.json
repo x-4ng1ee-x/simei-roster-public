@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "businessDate": "2026-10-28",
-  "shiftVersion": 56,
-  "updatedAt": "2026-10-28T20:00:44+09:00",
+  "shiftVersion": 57,
+  "updatedAt": "2026-11-01T19:47:13+09:00",
   "operationMode": "normal",
   "parts": [
     {
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "name": "うく ゙いす",
+      "name": "うく゛いす",
       "gender": "female",
       "order": 3,
       "parts": [
